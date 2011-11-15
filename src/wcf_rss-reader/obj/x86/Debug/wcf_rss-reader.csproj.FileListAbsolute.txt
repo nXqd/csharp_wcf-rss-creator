@@ -1,0 +1,13 @@
+D:\dev\wcf_rss-reader\wcf_rss-reader\bin\Debug\wcf_rss-reader.exe.config
+D:\dev\wcf_rss-reader\wcf_rss-reader\bin\Debug\wcf_rss-reader.exe
+D:\dev\wcf_rss-reader\wcf_rss-reader\bin\Debug\wcf_rss-reader.pdb
+D:\dev\wcf_rss-reader\wcf_rss-reader\bin\Debug\HtmlAgilityPack.dll
+D:\dev\wcf_rss-reader\wcf_rss-reader\bin\Debug\HtmlAgilityPack.pdb
+D:\dev\wcf_rss-reader\wcf_rss-reader\bin\Debug\HtmlAgilityPack.xml
+D:\dev\wcf_rss-reader\wcf_rss-reader\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\dev\wcf_rss-reader\wcf_rss-reader\obj\x86\Debug\wcf_rss-reader.exe
+D:\dev\wcf_rss-reader\wcf_rss-reader\obj\x86\Debug\wcf_rss-reader.pdb
+D:\dev\wcf_rss-reader\wcf_rss-reader\bin\Debug\wcf_rss-reader.exe.manifest
+D:\dev\wcf_rss-reader\wcf_rss-reader\bin\Debug\wcf_rss-reader.application
+D:\dev\wcf_rss-reader\wcf_rss-reader\obj\x86\Debug\wcf_rss-reader.exe.manifest
+D:\dev\wcf_rss-reader\wcf_rss-reader\obj\x86\Debug\wcf_rss-reader.application
